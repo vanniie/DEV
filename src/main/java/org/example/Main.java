@@ -7,6 +7,6 @@ public class Main {
 
     public static void vanie(){
         System.out.println("Hello world!");
-    }
+
     }
 }
