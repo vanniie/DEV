@@ -21,9 +21,4 @@ public class Main {
 
     }
 
-
-    public static void vanissesss(){
-        System.out.println("Hello world!");
-
-    }
 }
