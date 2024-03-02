@@ -1,4 +1,5 @@
 pipeline {
+<<<<<<< HEAD
     agent any
     
     stages {
@@ -31,3 +32,15 @@ pipeline {
         }
     }
 }
+=======
+  agent any
+  stages {
+    stage('Pre-Build') {
+      steps {
+        echo 'Release in Dev Envireontment'
+      }
+    }
+
+  }
+}
+>>>>>>> 5e4c7f2cc43ce40595b3697a236acf80b37d0f76
